@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://ranuja:ranujap00@testcluster.dahry.mongodb.net/?retryWrites=true&w=majority
+      database: Project
